@@ -36,6 +36,22 @@ This repository is a work in progress and will continue to expand with new noteb
 * Scale bars and annotation labels
 * Molecular exploration with py3Dmol
 
+## Example Protein Structures
+
+Interactive 3D visualizations may not render in GitHub preview, so static examples are shown below.
+
+### Hemoglobin
+
+![Hemoglobin](images/hemoglobin.png)
+
+### Myoglobin
+
+![Myoglobin](images/myoglobin.png)
+
+### Insulin
+
+![Insulin](images/insulin.png)
+
 ## Technologies
 
 * Python
